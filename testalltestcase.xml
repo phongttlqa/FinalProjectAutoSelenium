@@ -1,0 +1,14 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+ 
+<suite name="Suite" verbose="1">
+    <test name="FirstTest">
+        <classes>
+            <class name="test.CreateAccount" />
+            <class name="test.ContactUs" />
+            <class name="test.MuaHang" />
+            <class name="test.NewsLetter" />
+            <class name="test.ProductDetail" />
+            <class name="test.Search" />
+        </classes>
+    </test>
+</suite>

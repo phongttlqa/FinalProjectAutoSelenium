@@ -1,0 +1,32 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="song song" thread-count="2" parallel="tests">
+	<test name="Chrome Test">
+		<parameter name="browser" value="Chrome"></parameter>
+		<classes>
+			<class name="test.ProductDetail">
+				<methods>
+					<include name="viewLargeImage"/>
+					<include name="nullQuantity"/>
+					<include name="quantity"/>
+					<include name="sendToFrend"/>
+					<include name="writeComment"/>
+				</methods>
+				</class>
+		</classes>
+	</test>
+	<test name="FireFox Test">
+		<parameter name="browser" value="Firefox"></parameter>
+		<classes>
+			<class name="test.ProductDetail">
+				<methods>
+					<include name="sendToFrend"/>
+					<include name="viewLargeImage"/>
+					<include name="nullQuantity"/>
+					<include name="quantity"/>
+					<include name="writeComment"/>
+				</methods>
+			</class>
+			
+		</classes>
+	</test>
+</suite>
