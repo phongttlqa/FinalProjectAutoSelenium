@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "level2Code": "BLTT_TCTD",
+    "level2Name": "Bảo lãnh thanh toán của tổ chức tín dụng",
+    "level1Id": 1,
+    "level1Name": "Bảo lãnh thanh toán",
+    "level1Code": "BLTT"
+  },
+  {
+    "id": 2,
+    "level2Code": "BLTT_tổ chức khác",
+    "level2Name": "Bảo lãnh thanh toán của tổ chức khác không phải tổ chức tín dụng",
+    "level1Id": 1,
+    "level1Name": "Bảo lãnh thanh toán",
+    "level1Code": "BLTT"
+  },
+  {
+    "id": 3,
+    "level2Code": "BLTT_cá nhân",
+    "level2Name": "Bảo lãnh thanh toán của cá nhân",
+    "level1Id": 2,
+    "level1Name": "Bảo lãnh thanh toán",
+    "level1Code": "BLTT"
+  },
+  {
+    "id": 4,
+    "level2Code": "CPNY",
+    "level2Name": "Cổ phần niêm yết",
+    "level1Id": 2,
+    "level1Name": "Cổ phần/Phần vốn góp",
+    "level1Code": "CP/PVG"
+  }
+]

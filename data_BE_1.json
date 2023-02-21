@@ -1,0 +1,196 @@
+{
+   "paginate": {
+      "totalPage": 1,
+      "totalElement": 9,
+      "page": 0,
+      "size": 20
+   },
+   "data": [
+      {
+         "id": 12065,
+         "name": null,
+         "obligations": null,
+         "assetApplies": null,
+         "blttApplies": null,
+         "level1Codes": null,
+         "warnings": null,
+         "relationStatus": null,
+         "contractStatus": null,
+         "totalObligation": null
+      },
+      {
+         "id": 12005,
+         "name": "Phong test",
+         "obligations": [
+            "nghĩa vụ"
+         ],
+         "assetApplies": [
+            "tài sản"
+         ],
+         "blttApplies": [
+            "bltt"
+         ],
+         "level1Codes": [
+            "phân loại tài sản"
+         ],
+         "warnings": [
+            "Hết hạn định giá."
+         ],
+         "relationStatus": "DAP_UNG",
+         "contractStatus": "DANG_DIEU_CHINH",
+         "totalObligation": 5.1E10
+      },
+      {
+         "id": 11585,
+         "name": "HD_CPPVG_281122",
+         "obligations": [
+            "nghĩa vụ 1",
+            "nghĩa vụ 2",
+            "nghĩa vụ 3",
+            "nghĩa vụ 4"
+         ],
+         "assetApplies": [
+            "tài sản 1",
+            "tài sản 2",
+            "tài sản 3",
+            "tài sản 4"
+         ],
+         "blttApplies": [
+            "bltt 1",
+            "bltt 2",
+            "bltt 3",
+            "bltt 4"
+         ],
+         "level1Codes": [
+            "phân loại tài sản 1",
+            "phân loại tài sản 2",
+            "phân loại tài sản 3",
+            "phân loại tài sản 4"
+         ],
+         "warnings": null,
+         "relationStatus": "DAP_UNG",
+         "contractStatus": "DANG_DIEU_CHINH",
+         "totalObligation": 0.0
+      },
+      {
+         "id": 11268,
+         "name": "HD_GTCG_0605_SUT",
+         "obligations": [
+            "TCSC 40M VND"
+         ],
+         "assetApplies": [
+            "10000013648"
+         ],
+         "blttApplies": null,
+         "level1Codes": [
+            "GTCG"
+         ],
+         "warnings": null,
+         "relationStatus": "DAP_UNG",
+         "contractStatus": "DANG_DIEU_CHINH",
+         "totalObligation": 0.0
+      },
+      {
+         "id": 2,
+         "name": "HD_BDS_SUT_1811",
+         "obligations": [
+            "MSR112023",
+            "MSR092021"
+         ],
+         "assetApplies": [
+            "BDS",
+            "VIC",
+            "MSN"
+         ],
+         "blttApplies": null,
+         "level1Codes": [
+            "BDS"
+         ],
+         "warnings": null,
+         "relationStatus": "DAP_UNG",
+         "contractStatus": "DANG_DIEU_CHINH",
+         "totalObligation": 1.0E10
+      },
+      {
+         "id": 11825,
+         "name": "HD_GTCG_0605_SUT",
+         "obligations": [
+            "Nghĩa vụ khác",
+            "MSR112023"
+         ],
+         "assetApplies": [
+            "Search-adv-53"
+         ],
+         "blttApplies": null,
+         "level1Codes": [
+            "BDS"
+         ],
+         "warnings": null,
+         "relationStatus": "DAP_UNG",
+         "contractStatus": "DA_HIEU_LUC",
+         "totalObligation": 0.0
+      },
+      {
+         "id": 10525,
+         "name": "TSBD_GTCG_3_LINHTTP_07/12/21",
+         "obligations": [
+            "TCS09202103",
+            "TCS11202107",
+            "CIT-15TR"
+         ],
+         "assetApplies": [
+            "BDS",
+            "VIC",
+            "MSN"
+         ],
+         "blttApplies": null,
+         "level1Codes": [
+            "GTCG"
+         ],
+         "warnings": null,
+         "relationStatus": "DAP_UNG",
+         "contractStatus": "DA_HIEU_LUC",
+         "totalObligation": 1.0E10
+      },
+      {
+         "id": 11865,
+         "name": "Mẫu hợp đồng BPĐB DS&QTS mới",
+         "obligations": [
+            "Mô tả nghĩa vụ khác 1"
+         ],
+         "assetApplies": [
+            "project 2802_01"
+         ],
+         "blttApplies": null,
+         "level1Codes": [
+            "DS&QTS"
+         ],
+         "warnings": null,
+         "relationStatus": "DAP_UNG",
+         "contractStatus": "HET_HIEU_LUC",
+         "totalObligation": 0.0
+      },
+      {
+         "id": 3,
+         "name": "HĐ_BLTT_SUT_0704",
+         "obligations": [
+            "TCSC 40M VND"
+         ],
+         "assetApplies": [
+            "BDS",
+            "VIC@2022",
+            "MSN"
+         ],
+         "blttApplies": [
+            "Công Ty Cổ Phần Dịch Vụ Viễn Thông APO"
+         ],
+         "level1Codes": [
+            "BLTT"
+         ],
+         "warnings": null,
+         "relationStatus": "DAP_UNG",
+         "contractStatus": "HET_HIEU_LUC",
+         "totalObligation": 1.0E10
+      }
+   ]
+}

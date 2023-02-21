@@ -1,0 +1,73 @@
+{
+  "id": 12145,
+  "name": "Phongtest",
+  "obligationIds": [
+    12573,
+    12574
+  ],
+  "obligations": [
+    "MSR112023"
+  ],
+  "assetApplies": [
+    "Trần Thị Ngọc Ánh"
+  ],
+  "blttApplies": [
+    "blttApplies MSR112023"
+  ],
+  "relationStatus": "KHONG_DAP_UNG",
+  "warnings": [
+    "warnings warnings warnings warnings warnings 3"
+  ],
+  "description": "ko upload đc ",
+  "relations": [
+    {
+      "relationId": 12267,
+      "relationName": "Phong test",
+      "relationType": "TAI_SAN",
+      "assetApplies": [
+        "Ánh"
+      ],
+      "blttApplies": ["blttApplies"],
+      "guarantees": [
+        "BPBD_THUY_01"
+      ],
+      "obligations": [
+        "MSR092021"
+      ],
+      "obligationIds": [
+        12573
+      ],
+      "totalValuationValue": 2.896312501E9,
+      "totalMortgageValue": 2.896312501E9,
+      "totalGuaranteeValue": 3.896312501E9,
+      "totalObligationValue": 6.43625E10,
+      "relationStatus": "DAP_UNG"
+    },
+    {
+      "relationId": 12268,
+      "relationName": "mqh2",
+      "relationType": "BAO_LANH",
+      "assetApplies": [
+        "Ánh"
+      ],
+      "blttApplies": [],
+      "guarantees": [
+        "BPBD_BDS_SUT_2610",
+        "BPBD_THUY_01"
+      ],
+      "obligations": [
+        "MSR112023",
+        "MSR092021"
+      ],
+      "obligationIds": [
+        12573,
+        12574
+      ],
+      "totalValuationValue": 2.896312501E9,
+      "totalMortgageValue": 2.896312501E9,
+      "totalGuaranteeValue": null,
+      "totalObligationValue": 6.43625E10,
+      "relationStatus": "KHONG_DAP_UNG"
+    }
+  ]
+}

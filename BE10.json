@@ -1,0 +1,124 @@
+{
+  "relationId": 12285,
+  "relationName": "tàiiiiiiii11111",
+  "relationType": "TAI_SAN",
+  "mortgages": [
+    {
+      "mortgageId": 2621,
+      "guarantor": {
+        "gaId": 10000011175,
+        "name": "Công Ty Cổ Phần  Đầu Tư Và Thương Mại Ngân Hà",
+        "ticker": "NHCC",
+        "businessRegistrationCode": null
+      },
+      "guaranteeId": 11501,
+      "guaranteeName": "BPBD_DSQTS_0912",
+      "level1Code": "DS&QTS",
+      "level1Name": "Động sản và quyền tài sản (không bao gồm Cổ phần/Phần vốn góp và Giấy tờ có giá)",
+      "level2Code": "DS&QTS_QPT",
+      "level2Name": "Động sản và quyền tài sản là Quyền phát triển",
+      "warnings": [
+        "Hết hạn định giá."
+      ],
+      "parameters": {
+        "bltt": "bltt",
+        "cppvg": "cppvg",
+        "gtcg": "gtcg",
+        "bds": "bds",
+        "dsqts": {
+          "assetName": "null",
+          "stocksInfo": "null",
+          "contractCode": "BF1011002",
+          "productType": "PROJECT",
+          "productTypeName": "Dự án",
+          "productId": 1770,
+          "productName": "Du an test 13",
+          "investors": "null",
+          "mortgageComponent": "TOAN_BO",
+          "mortgageComponentName": "Toàn bộ Dự án/Tài sản",
+          "ratio": {
+            "mm": "5/6",
+            "mc": "5/6",
+            "wm": "5/6",
+            "im": "5/6",
+            "k": 1.0
+          },
+          "valuation": {
+            "mortgageValue": 6.0E10,
+            "valuationValue": 1.0E10,
+            "guaranteeValue": 5.0E10,
+            "valuationDate": "2023-01-29"
+          },
+          "insurances": [
+            {
+              "type": "BAO_HIEM_RUI_RO_MOI_TAI_SAN",
+              "no": "271202",
+              "value": 90000000000,
+              "fee": 9000000000,
+              "startDate": 1675987200000,
+              "endDate": 1707523200000
+            }
+          ],
+          "docStatus": {
+            "signDocumentStatus": "HOAN_THANH",
+            "registerStatus": "HOAN_THANH",
+            "blockPledgeStatus": null
+          }
+        }
+      }
+    },
+    {
+      "mortgageId": 2661,
+      "guarantor": {
+        "gaId": 10000012530,
+        "name": "Công Ty Cổ Phần Mai Động",
+        "ticker": "MDD",
+        "businessRegistrationCode": null
+      },
+      "guaranteeId": 11501,
+      "guaranteeName": "BPBD_DSQTS_0912",
+      "level1Code": "DS&QTS",
+      "level1Name": "Động sản và quyền tài sản (không bao gồm Cổ phần/Phần vốn góp và Giấy tờ có giá)",
+      "level2Code": "DS&QTS_QPT",
+      "level2Name": "Động sản và quyền tài sản là Quyền phát triển",
+      "warnings": [],
+      "parameters": {
+        "bltt": null,
+        "cppvg": null,
+        "gtcg": null,
+        "bds": null,
+        "dsqts": {
+          "assetName": null,
+          "stocksInfo": null,
+          "contractCode": "BF101dddd",
+          "productType": "PROJECT",
+          "productTypeName": "Dự án",
+          "productId": 1770,
+          "productName": "Du an test 13",
+          "investors": null,
+          "mortgageComponent": "TOAN_BO",
+          "mortgageComponentName": "Toàn bộ Dự án/Tài sản",
+          "ratio": {
+            "mm": "5/6",
+            "mc": "5/6",
+            "wm": "5/6",
+            "im": "5/6",
+            "k": 1.0
+          },
+          "valuation": {
+            "mortgageValue": 1.5E10,
+            "valuationValue": 1.5E10,
+            "guaranteeValue": 1.25E10,
+            "valuationDate": "2023-01-29"
+          },
+          "insurances": [],
+          "docStatus": {
+            "signDocumentStatus": "HOAN_THANH",
+            "registerStatus": "HOAN_THANH",
+            "blockPledgeStatus": null
+          }
+        }
+      }
+    }
+  ]
+}

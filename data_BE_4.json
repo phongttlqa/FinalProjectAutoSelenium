@@ -1,0 +1,16 @@
+[
+  {
+    "type": "RELATIONSHIP_STATUS",
+    "tag": null,
+    "attrValues": [
+      {
+        "code": "DAP_UNG",
+        "name": "Đáp ứngg"
+      },
+      {
+        "code": "KHONG_DAP_UNG",
+        "name": "Không đáp ứngg"
+      }
+    ]
+  }
+]

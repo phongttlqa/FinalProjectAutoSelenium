@@ -1,0 +1,57 @@
+{
+  "id": 12145,
+  "name": null,
+  "obligationIds": [
+    12573,
+    12574
+  ],
+  "obligations": [],
+  "assetApplies": [],
+  "blttApplies":[],
+  "relationStatus": null,
+  "warnings": [],
+  "description":[],
+  "relations": [
+    {
+      "relationId": 12267,
+      "relationName": null,
+      "relationType": null,
+      "assetApplies": [],
+      "blttApplies": [],
+      "guarantees": [],
+      "obligations": [],
+      "obligationIds": [],
+      "totalValuationValue": null,
+      "totalMortgageValue": null,
+      "totalGuaranteeValue": null,
+      "totalObligationValue": null,
+      "relationStatus": null
+    },
+    {
+      "relationId": 12268,
+      "relationName": "mqh2",
+      "relationType": "TAI_SAN",
+      "assetApplies": [
+        "Ánh"
+      ],
+      "blttApplies": [],
+      "guarantees": [
+        "BPBD_BDS_SUT_2610",
+        "BPBD_THUY_01"
+      ],
+      "obligations": [
+        "MSR112023",
+        "MSR092021"
+      ],
+      "obligationIds": [
+        12573,
+        12574
+      ],
+      "totalValuationValue": 2.896312501E9,
+      "totalMortgageValue": 2.896312501E9,
+      "totalGuaranteeValue": null,
+      "totalObligationValue": 6.43625E10,
+      "relationStatus": "KHONG_DAP_UNG"
+    }
+  ]
+}
